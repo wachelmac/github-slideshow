@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+_Witty caption for nonexistent meme_ 
 Use the left arrow to go back!
